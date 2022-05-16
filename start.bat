@@ -1,0 +1,1 @@
+start javaw -jar .\desktop\build\compose\jars\jvm-windows-x64-1.0.0.jar
